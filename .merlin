@@ -1,0 +1,10 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx /home/yutopp/repo/buckle_script/node_modules/bs-platform/bin/bsppx.exe
+S /home/yutopp/repo/buckle_script/node_modules/bs-platform/lib/ocaml
+B /home/yutopp/repo/buckle_script/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -bs-cross-module-opt -no-alias-deps -color always -w -40+6+7+27+32..39+44+45
+S /home/yutopp/repo/buckle_script/node_modules/bucklescript-tea/lib/ocaml
+B /home/yutopp/repo/buckle_script/node_modules/bucklescript-tea/lib/ocaml
+S src
+B lib/bs/src
+####BSB GENERATED: NO EDIT}

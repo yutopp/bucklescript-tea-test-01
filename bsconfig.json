@@ -1,0 +1,16 @@
+{
+    "name" : "bs_test",
+    "sources" : [
+        "src"
+    ],
+    "bsc-flags": [
+        "-bs-cross-module-opt"
+    ],
+    "package-specs" : [
+        "commonjs"
+    ],
+    "bs-dependencies": [
+      "bucklescript-tea"
+    ],
+    "generate-merlin" : true
+}

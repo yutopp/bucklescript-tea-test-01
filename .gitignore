@@ -1,0 +1,9 @@
+lib
+entry.js
+
+node_modules
+
+.omakedb
+.omakedb.lock
+
+*.omc
